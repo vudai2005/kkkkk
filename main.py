@@ -450,9 +450,9 @@ def clear():
 def title():
     #sys.stdout.write("\x1b]2;Karma | User: root\x07")
     stdout.write("                                                                                          \n")
-    stdout.write("                                 "+Fore.LIGHTMAGENTA_EX+"╦╔═╔═╗╦═╗╔╦╗╔═╗                 \n")
-    stdout.write("                                 "+Fore.LIGHTRED_EX    +"╠╩╗╠═╣╠╦╝║║║╠═╣                 \n")
-    stdout.write("                                 "+Fore.RED            +"╩ ╩╩ ╩╩╚═╩ ╩╩ ╩                \n")
+    stdout.write("                                 "+Fore.LIGHTMAGENTA_EX+"Trọng Đài               \n")
+    stdout.write("                                 "+Fore.LIGHTRED_EX    +"Trùm Ddos                 \n")
+    stdout.write("                                 "+Fore.LIGHTGREEN_EX            +"Thần Gây War               \n")
     stdout.write("             "+Fore.RED            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             \x1b[38;2;255;0;0m╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             \x1b[38;2;255;0;0m║ \x1b[38;2;0;255;189m        Welcome To The Main Screen Of TrongDai\x1b[38;2;255;0;0m         ║\n")
